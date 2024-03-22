@@ -1,0 +1,55 @@
+[class*="col"]{
+    padding: 1rem;
+    border: 2px solid #ffffff;
+    color: black;
+    text-align: center;
+}
+#col1{
+    background-color: #FFE7C1;
+}
+
+#col2{
+    background-color: #F3CCF3;
+}
+
+#col3{
+    background-color: #E9A8F2;
+}
+
+#col4{
+    background-color: #DC84F3;
+}
+
+#col5{
+    background-color: #EEF5FF;
+}
+
+#col6{
+    background-color: #B4D4FF;
+
+}
+
+#col7{
+    background-color: #86B6F6;
+}
+#col8{
+    background-color: #E6B9DE;
+}
+
+
+#col9{
+    background-color: #7BD3EA;
+}
+
+#col10{
+    background-color: #A1EEBD;
+}
+
+#col11{
+    background-color: #F6F7C4;
+}
+
+#col12{
+    background-color: #F6D6D6;
+}
+  
